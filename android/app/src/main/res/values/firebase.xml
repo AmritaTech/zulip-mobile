@@ -10,6 +10,7 @@
     a `google-services.json` file.  For details, see:
       https://developers.google.com/android/guides/google-services-plugin#processing_the_json_file
    -->
+  <!-- Defined now using env variable and github secret in build.gradle using resValue, so commenting out below 
   <string name="google_app_id" translatable="false">@string/google_app_id</string>
-  <string name="gcm_defaultSenderId" translatable="false">@string/gcm_defaultSenderId</string>
+  <string name="gcm_defaultSenderId" translatable="false">@string/gcm_defaultSenderId</string> -->
 </resources>
